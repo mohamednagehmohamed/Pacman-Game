@@ -1,0 +1,22 @@
+C:\Users\programmer18\source\repos\PAcman Game\PAcman Game\bin\Debug\net7.0-windows\PAcman Game.exe
+C:\Users\programmer18\source\repos\PAcman Game\PAcman Game\bin\Debug\net7.0-windows\PAcman Game.deps.json
+C:\Users\programmer18\source\repos\PAcman Game\PAcman Game\bin\Debug\net7.0-windows\PAcman Game.runtimeconfig.json
+C:\Users\programmer18\source\repos\PAcman Game\PAcman Game\bin\Debug\net7.0-windows\PAcman Game.dll
+C:\Users\programmer18\source\repos\PAcman Game\PAcman Game\bin\Debug\net7.0-windows\PAcman Game.pdb
+C:\Users\programmer18\source\repos\PAcman Game\PAcman Game\obj\Debug\net7.0-windows\PAcman Game.csproj.AssemblyReference.cache
+C:\Users\programmer18\source\repos\PAcman Game\PAcman Game\obj\Debug\net7.0-windows\PAcman_Game.Form1.resources
+C:\Users\programmer18\source\repos\PAcman Game\PAcman Game\obj\Debug\net7.0-windows\PAcman_Game.Properties.Resources.resources
+C:\Users\programmer18\source\repos\PAcman Game\PAcman Game\obj\Debug\net7.0-windows\PAcman Game.csproj.GenerateResource.cache
+C:\Users\programmer18\source\repos\PAcman Game\PAcman Game\obj\Debug\net7.0-windows\PAcman Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\programmer18\source\repos\PAcman Game\PAcman Game\obj\Debug\net7.0-windows\PAcman Game.AssemblyInfoInputs.cache
+C:\Users\programmer18\source\repos\PAcman Game\PAcman Game\obj\Debug\net7.0-windows\PAcman Game.AssemblyInfo.cs
+C:\Users\programmer18\source\repos\PAcman Game\PAcman Game\obj\Debug\net7.0-windows\PAcman Game.csproj.CoreCompileInputs.cache
+C:\Users\programmer18\source\repos\PAcman Game\PAcman Game\obj\Debug\net7.0-windows\PAcman Game.dll
+C:\Users\programmer18\source\repos\PAcman Game\PAcman Game\obj\Debug\net7.0-windows\refint\PAcman Game.dll
+C:\Users\programmer18\source\repos\PAcman Game\PAcman Game\obj\Debug\net7.0-windows\PAcman Game.pdb
+C:\Users\programmer18\source\repos\PAcman Game\PAcman Game\obj\Debug\net7.0-windows\PAcman Game.genruntimeconfig.cache
+C:\Users\programmer18\source\repos\PAcman Game\PAcman Game\obj\Debug\net7.0-windows\ref\PAcman Game.dll
+C:\Users\programmer18\source\repos\PAcman Game\PAcman Game\obj\Debug\net7.0-windows\Interop.MediaPlayer.dll
+C:\Users\programmer18\source\repos\PAcman Game\PAcman Game\obj\Debug\net7.0-windows\Interop.WMPLib.dll
+C:\Users\programmer18\source\repos\PAcman Game\PAcman Game\obj\Debug\net7.0-windows\PAcman Game.csproj.ResolveComReference.cache
+C:\Users\programmer18\source\repos\PAcman Game\PAcman Game\obj\Debug\net7.0-windows\PAcman_Game.Load.resources
